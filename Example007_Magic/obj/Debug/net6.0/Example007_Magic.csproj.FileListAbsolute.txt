@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\ref\Example007_Magic.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
