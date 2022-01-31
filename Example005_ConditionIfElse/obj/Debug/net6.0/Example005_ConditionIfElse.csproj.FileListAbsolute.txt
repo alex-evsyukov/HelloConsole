@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\ref\Example005_ConditionIfElse.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Lecture_1\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
